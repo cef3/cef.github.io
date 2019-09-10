@@ -21,7 +21,7 @@ description: My website for assignments for CSCI 103
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Assignments:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
   Author's home: "http://deanattali.com"
