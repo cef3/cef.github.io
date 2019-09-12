@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Caroline's example post
-subtitle: Test
+title: My Introduction
+subtitle: My intro post, due on September 16th.
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [test, post]
 tags: [test]
