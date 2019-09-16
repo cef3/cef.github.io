@@ -38,7 +38,7 @@ avatar: "/img/remastered-art-water-serpents-ii-by-gustav-klimt-20190302-square-v
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#ca81f7"
+navbar-col: "#aa80ff"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
