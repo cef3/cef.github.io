@@ -41,7 +41,7 @@ avatar: "/img/remastered-art-water-serpents-ii-by-gustav-klimt-20190302-square-v
 navbar-col: "#a385e0"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+page-col: "##a385e0"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
