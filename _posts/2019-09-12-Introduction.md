@@ -15,8 +15,8 @@ My name is Caroline Fairweather, I use she/her pronouns, and I am a Theatre Majo
 I've done minimal sewing for an introductry theatre tech class, so I'm familiar with some basic patterns and am very good at general handywork.
 I have absolutely no programming experience! I'm currently working at the Lenox Visitors Center and am in charge of website updates, all of which use Wordpress, so I don't actually work with raw code.
 
-In this class, I hope to connect my creative spark with these two skills to expand which mediums I feel comfortable creating in. As an actor, I am constantly searching for ways to expand my creative potential so I can be prepared to offer everything I can to a group of artists instead of solely focusing on one medium of expression. Also, as a young person who will work in this world, I should probably know how websites work at some point.
+In this class, i hope to expand my sewing skills beyond what I an incorrectly try to replicate from youtube. Also, as a young person who will work in this world, I should probably know how websites work at some point. Then I can make my own website, an important thing for an actor or theatre artist!
 
 **A Boring Fact**
 
-I have a half-faded tattoo of a power button!
+I use Dove body wash.
