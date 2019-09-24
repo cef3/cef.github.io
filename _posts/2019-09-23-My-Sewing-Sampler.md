@@ -8,6 +8,6 @@ tags: [test]
 comments: true
 ---
 
-![My sewing sampler](final sewing sampler.png)
+![My sewing sampler](IMG_1508.jpeg)
 
 A tip or trick-- don't save posting for the last ten (or 20 or 30) minutes!
