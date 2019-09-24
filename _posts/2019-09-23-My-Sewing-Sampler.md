@@ -8,6 +8,6 @@ tags: [test]
 comments: true
 ---
 
-![My sewing sampler](IMG_1508.jpeg)
+![My sewing sampler](https://cef3.github.io/img/sewing sampler.jpeg)
 
 A tip or trick-- don't save posting for the last ten (or 20 or 30) minutes!
