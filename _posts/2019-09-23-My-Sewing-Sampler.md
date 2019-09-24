@@ -9,3 +9,5 @@ comments: true
 ---
 
 ![My sewing sampler](final sewing sampler.png)
+
+A tip or trick-- don't save posting for the last ten (or 20 or 30) minutes!
