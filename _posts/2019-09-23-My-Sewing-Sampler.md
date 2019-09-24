@@ -8,4 +8,4 @@ tags: [test]
 comments: true
 ---
 
-![My sewing sampler](img/sewing sampler.jpeg)
+![My sewing sampler](final sewing sampler.png)
