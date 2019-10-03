@@ -25,5 +25,7 @@ Assignment Description: Using code, a user can input an order number and a meal 
 
 A tip or trick-- Run small pieces of code first!! Once one part works, other chunks are sometimes nearly identical!
 
+![Odd menu output](https://cef3.github.io/img/odd-menu.png)
+
 
 
