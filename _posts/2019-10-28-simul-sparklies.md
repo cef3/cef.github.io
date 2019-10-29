@@ -16,6 +16,6 @@ For this assignment, I created one program to mimic three different types of fir
 A tip or trick-- don't do extra things just because you needed something in the past!
 
 
-![dipper-and-flash](https://cef3.github.io/img/dipper-and-flash.jpeg)
+![dipper-and-flash](https://cef3.github.io/img/dipper-and-flash.png)
 ![dipper-and-synchronous](https://cef3.github.io/img/dipper-and-synchronous.jpeg)
 
