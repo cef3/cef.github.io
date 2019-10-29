@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Simultaneous Sparklies Deliverable
-subtitle: October 16, 2019.
+subtitle: October 28, 2019.
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [test, post]
 tags: [test]
