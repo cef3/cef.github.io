@@ -25,6 +25,7 @@ Buzzer
 Battery
 
 Revised Paper Prototyped:
+![revised-paper](https://cef3.github.io/img/revised-paper.jpeg)
 
 3 Tips to Past Self:
 Make detailed descriptions of what each draft of code does to come back to it later!
@@ -32,5 +33,6 @@ Make sure that deadlines are set in advance so that sewing isn’t done at the l
 Use all ability to streamline circuitry!!
 
 Photo of alligator prototype:
+![alligator](https://cef3.github.io/img/alligator.jpeg)
 
 I don’t have photos of different stages of the project, but I’ve submitted three different “pieces” or “steps” of my code that I used as building blocks along the way.
