@@ -33,6 +33,6 @@ Make sure that deadlines are set in advance so that sewing isn’t done at the l
 Use all ability to streamline circuitry!!
 
 Photo of alligator prototype:
-![alligator](https://cef3.github.io/img/alligator.jpeg)
+![alligator](https://cef3.github.io/img/alligator.png)
 
 I don’t have photos of different stages of the project, but I’ve submitted three different “pieces” or “steps” of my code that I used as building blocks along the way.
